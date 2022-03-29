@@ -62,7 +62,7 @@ Customize the number of dots, animation speed, and style using these props:
 <AnimatedEllipsis numberOfDots={4}
                   animationDelay={150}
                   style={{
-                    color: 'red',
+                    color: 'pink',
                     fontSize: 72,
                   }}
 />
